@@ -1,0 +1,5 @@
+TensorFlow: 2.18.0
+TensorFlowJS: 4.22.0
+Scikit-Learn: 1.6.1
+Matplotlib: 3.10.0
+NumPy: 2.0.2
